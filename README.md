@@ -1,2 +1,5 @@
 # lfu-cache-py
-Zero-dependency Python implementation.
+
+LFU cache with O(1) operations
+
+Zero-dependency Python. Stdlib only.
